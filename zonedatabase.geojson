@@ -1,0 +1,740 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-06T19:52:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22840963",
+        "alt_name": "Apte Road",
+        "hgv": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxheight": "3.2",
+        "name": "Apte Path",
+        "name:mr": "आपटे पथ",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8424544,
+            18.517397
+          ],
+          [
+            73.8424678,
+            18.5174462
+          ],
+          [
+            73.8425696,
+            18.5178189
+          ],
+          [
+            73.8427003,
+            18.5181364
+          ],
+          [
+            73.8427537,
+            18.5182549
+          ],
+          [
+            73.842814,
+            18.5184017
+          ],
+          [
+            73.8428779,
+            18.5185223
+          ],
+          [
+            73.8429309,
+            18.5186223
+          ],
+          [
+            73.8431391,
+            18.5190151
+          ],
+          [
+            73.8432845,
+            18.5193973
+          ],
+          [
+            73.8433205,
+            18.5194921
+          ],
+          [
+            73.84336,
+            18.519596
+          ],
+          [
+            73.8434309,
+            18.5197824
+          ],
+          [
+            73.843475,
+            18.5198959
+          ],
+          [
+            73.8435319,
+            18.5200421
+          ],
+          [
+            73.8435739,
+            18.5201538
+          ],
+          [
+            73.8436175,
+            18.5202699
+          ],
+          [
+            73.8437166,
+            18.5205337
+          ],
+          [
+            73.8437452,
+            18.5206131
+          ],
+          [
+            73.8438616,
+            18.5209358
+          ],
+          [
+            73.8438712,
+            18.5209625
+          ],
+          [
+            73.8439151,
+            18.5210969
+          ],
+          [
+            73.8439339,
+            18.5211573
+          ],
+          [
+            73.8440106,
+            18.5214031
+          ],
+          [
+            73.8441209,
+            18.5217604
+          ],
+          [
+            73.8441662,
+            18.521907
+          ],
+          [
+            73.8442394,
+            18.5221442
+          ],
+          [
+            73.8444254,
+            18.522739
+          ],
+          [
+            73.8445656,
+            18.5232123
+          ]
+        ]
+      },
+      "id": "way/22840963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22975843",
+        "bridge": "yes",
+        "hgv": "no",
+        "highway": "construction",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Arjun Mansukhani Path",
+        "name:mr": "अर्जुन मनसुखानी पथ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8855517,
+            18.5303074
+          ],
+          [
+            73.8856616,
+            18.5311248
+          ],
+          [
+            73.8857084,
+            18.5315502
+          ],
+          [
+            73.8857263,
+            18.5320242
+          ],
+          [
+            73.8857417,
+            18.5323345
+          ],
+          [
+            73.8857422,
+            18.5325478
+          ],
+          [
+            73.8856601,
+            18.5344708
+          ],
+          [
+            73.8856538,
+            18.5346638
+          ],
+          [
+            73.8856295,
+            18.5351021
+          ]
+        ]
+      },
+      "id": "way/22975843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23016238",
+        "auto_rickshaw": "no",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "layer": "1",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8419446,
+            18.5112963
+          ],
+          [
+            73.8416515,
+            18.5116453
+          ],
+          [
+            73.8412833,
+            18.5120875
+          ],
+          [
+            73.8409857,
+            18.5124481
+          ],
+          [
+            73.8407908,
+            18.5127049
+          ]
+        ]
+      },
+      "id": "way/23016238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23016239",
+        "bicycle": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Yashwantrao Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8407908,
+            18.5127049
+          ],
+          [
+            73.8405966,
+            18.5130149
+          ],
+          [
+            73.8405641,
+            18.5130809
+          ]
+        ]
+      },
+      "id": "way/23016239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31046662",
+        "access": "permissive",
+        "hgv": "no",
+        "highway": "service",
+        "motorcar": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8308669,
+            18.5351315
+          ],
+          [
+            73.8304017,
+            18.5351549
+          ]
+        ]
+      },
+      "id": "way/31046662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60981092",
+        "hgv": "no",
+        "highway": "tertiary",
+        "name": "Rahul Gangavane Path",
+        "name:mr": "राहूल गंगावणे पथ",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7975664,
+            18.5076603
+          ],
+          [
+            73.7974872,
+            18.506522
+          ],
+          [
+            73.7974964,
+            18.5064753
+          ],
+          [
+            73.797503,
+            18.5064416
+          ],
+          [
+            73.7975487,
+            18.5063433
+          ],
+          [
+            73.7975792,
+            18.5062554
+          ],
+          [
+            73.7976017,
+            18.5061503
+          ],
+          [
+            73.7976214,
+            18.5060353
+          ],
+          [
+            73.7976572,
+            18.5059421
+          ]
+        ]
+      },
+      "id": "way/60981092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61717182",
+        "bridge": "yes",
+        "hgv": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Raveendra Mhatre Bridge",
+        "name:etymology:wikidata": "Q7296736",
+        "name:mr": "रवींद्र म्हात्रे पूल",
+        "oneway": "yes",
+        "tourist_bus": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.837357,
+            18.5045923
+          ],
+          [
+            73.8355704,
+            18.5045112
+          ]
+        ]
+      },
+      "id": "way/61717182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206412007",
+        "bridge": "yes",
+        "hgv": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Raveendra Mhatre Bridge",
+        "name:etymology:wikidata": "Q7296736",
+        "name:mr": "रवींद्र म्हात्रे पूल",
+        "oneway": "yes",
+        "tourist_bus": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8355667,
+            18.5045829
+          ],
+          [
+            73.8373534,
+            18.5046641
+          ]
+        ]
+      },
+      "id": "way/206412007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211087083",
+        "hgv": "no",
+        "highway": "tertiary",
+        "name": "Rahul Gangavane Path",
+        "name:mr": "राहूल गंगावणे पथ",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7977259,
+            18.5058565
+          ],
+          [
+            73.7977499,
+            18.5058348
+          ],
+          [
+            73.7978132,
+            18.5057855
+          ],
+          [
+            73.7978454,
+            18.5057484
+          ],
+          [
+            73.7978575,
+            18.505706
+          ],
+          [
+            73.7978217,
+            18.5053501
+          ],
+          [
+            73.7977728,
+            18.5049872
+          ],
+          [
+            73.7977665,
+            18.5048911
+          ],
+          [
+            73.7977618,
+            18.504818
+          ],
+          [
+            73.7977829,
+            18.5047582
+          ],
+          [
+            73.7978198,
+            18.5046812
+          ],
+          [
+            73.7978259,
+            18.5046436
+          ],
+          [
+            73.7978355,
+            18.5045837
+          ],
+          [
+            73.7978316,
+            18.5045047
+          ],
+          [
+            73.7976605,
+            18.5033707
+          ],
+          [
+            73.7976436,
+            18.5031987
+          ]
+        ]
+      },
+      "id": "way/211087083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211087087",
+        "bridge": "yes",
+        "hgv": "no",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Rahul Gangavane Path",
+        "name:mr": "राहूल गंगावणे पथ",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7976572,
+            18.5059421
+          ],
+          [
+            73.7977259,
+            18.5058565
+          ]
+        ]
+      },
+      "id": "way/211087087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250171877",
+        "hgv": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "oneway": "no",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7769431,
+            18.5683607
+          ],
+          [
+            73.7769525,
+            18.5681681
+          ],
+          [
+            73.7773038,
+            18.56817
+          ],
+          [
+            73.7777102,
+            18.568184
+          ],
+          [
+            73.7778765,
+            18.5681929
+          ],
+          [
+            73.7784196,
+            18.5682031
+          ],
+          [
+            73.778649,
+            18.5682081
+          ]
+        ]
+      },
+      "id": "way/250171877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660944512",
+        "bicycle": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "motorcycle": "yes",
+        "name": "Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8420168,
+            18.5112563
+          ],
+          [
+            73.8419446,
+            18.5112963
+          ]
+        ]
+      },
+      "id": "way/660944512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/815921869",
+        "hgv": "no",
+        "highway": "secondary",
+        "name": "Rahul Gangavane Path",
+        "name:mr": "राहूल गंगावणे पथ",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7976436,
+            18.5031987
+          ],
+          [
+            73.7976229,
+            18.5030847
+          ]
+        ]
+      },
+      "id": "way/815921869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308739833",
+        "auto_rickshaw": "no",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "layer": "1",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8408274,
+            18.5127361
+          ],
+          [
+            73.8409833,
+            18.5125288
+          ],
+          [
+            73.841667,
+            18.5116945
+          ],
+          [
+            73.8419863,
+            18.5113215
+          ]
+        ]
+      },
+      "id": "way/1308739833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308739834",
+        "bicycle": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "motorcycle": "yes",
+        "name": "Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8419863,
+            18.5113215
+          ],
+          [
+            73.8420168,
+            18.5112563
+          ]
+        ]
+      },
+      "id": "way/1308739834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1308739835",
+        "bicycle": "yes",
+        "foot": "yes",
+        "goods": "no",
+        "hgv": "no",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Yashwantrao Chavan Bridge",
+        "name:etymology:wikidata": "Q1764541",
+        "name:mr": "यशवंतराव चव्हाण पूल",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8406095,
+            18.513099
+          ],
+          [
+            73.8406438,
+            18.5130323
+          ],
+          [
+            73.8407523,
+            18.5128553
+          ],
+          [
+            73.8408274,
+            18.5127361
+          ]
+        ]
+      },
+      "id": "way/1308739835"
+    }
+  ]
+}
