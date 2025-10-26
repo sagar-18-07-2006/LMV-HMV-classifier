@@ -56,3 +56,5 @@ Frontend/linux/flutter/generated_plugin_registrant.cc
 Frontend/build/flutter_assets/NOTICES
 
 
+Frontend/build/flutter_assets/shaders/ink_sparkle.frag
+Frontend/macos/Flutter/GeneratedPluginRegistrant.swift
