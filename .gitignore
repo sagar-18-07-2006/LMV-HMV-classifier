@@ -44,15 +44,15 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .metadata
-frontend/linux/flutter/generated_plugin_registrant.cc
-frontend/linux/flutter/generated_plugin_registrant.h
-frontend/linux/flutter/generated_plugins.cmake
+Frontend/linux/flutter/generated_plugin_registrant.cc
+Frontend/linux/flutter/generated_plugin_registrant.h
+Frontend/linux/flutter/generated_plugins.cmake
 macos/Flutter/GeneratedPluginRegistrant.swift
 pubspec.lock
-frontend/windows/flutter/generated_plugins.cmake
-frontend/windows/flutter/generated_plugin_registrant.h
-frontend/windows/flutter/generated_plugin_registrant.cc
-frontend/linux/flutter/generated_plugin_registrant.cc
-frontend/build/flutter_assets/NOTICES
+Frontend/windows/flutter/generated_plugins.cmake
+Frontend/windows/flutter/generated_plugin_registrant.h
+Frontend/windows/flutter/generated_plugin_registrant.cc
+Frontend/linux/flutter/generated_plugin_registrant.cc
+Frontend/build/flutter_assets/NOTICES
 
 
